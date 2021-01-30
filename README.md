@@ -3,6 +3,7 @@ This repository contains some of the core projects developed on the Spring Frame
 
 The formation is divided into 12 courses that cover:
 
+```
 1 - Java Servlets
 2 - Web java basics
 3 - Maven
@@ -15,3 +16,4 @@ The formation is divided into 12 courses that cover:
 10 - Spring REST API
 11 - Spring REST API: Security
 12 - Spring Boot: Test and Deploy
+```
